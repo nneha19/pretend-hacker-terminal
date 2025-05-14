@@ -1,0 +1,28 @@
+*{
+  font-family: 'Courier New', monospace;
+
+}
+
+.editable-terminal {
+  position: relative;
+  outline: none;
+  min-width: 1ch;
+  white-space: pre;
+  caret-color: transparent; 
+}
+
+
+.editable-terminal:focus::after {
+  content: "_";
+  position: absolute;
+  right: -1;
+  animation: blink 1s step-start infinite;
+  color: #67EB4D;
+  pointer-events: none;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
