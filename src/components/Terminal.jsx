@@ -60,7 +60,7 @@ function Terminal() {
 
   return (
      <div className="mb-8 space-y-1  font-mono">
-      <div className="mb-4 font-bold ">SYSTEM HACKER TERMINAL V1.1
+      <div className="mb-4 font-bold overflow-x-hidden">SYSTEM HACKER TERMINAL V1.1
          <pre className="whitespace-pre">
 {` 
  ▄︻デ═一  

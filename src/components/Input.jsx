@@ -22,7 +22,7 @@ function Input({onSubmit}) {
  }
 
   return (
-    <form className="flex flex-row gap-2" >
+    <form className="flex flex-row gap-2 pb-24" >
        <label className="font-semibold">&gt;</label>
        <div contentEditable className='editable-terminal text-[#67EB4D]'  ref={InputRef} onKeyDown={handleEnterKey}></div>
     </form>
