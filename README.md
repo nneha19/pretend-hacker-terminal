@@ -3,7 +3,7 @@
 A fun, fake hacker terminal built with **React**, **Vite**, and **Tailwind CSS** — perfect for pranking your friends or just looking cool while typing!
 <br/>
 
-![image](https://github.com/user-attachments/assets/dd08c211-2e97-48c4-98fd-8dc562721112)
+![image](https://github.com/user-attachments/assets/32651453-29d2-4d0d-a994-58130516fb9f)
 
 
 <br/>
