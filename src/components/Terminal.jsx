@@ -59,15 +59,14 @@ function Terminal() {
   };
 
   return (
-     <div className="mb-8 space-y-1 overflow-y-auto font-mono">
+     <div className="mb-8 space-y-1  font-mono">
       <div className="mb-4 font-bold ">SYSTEM HACKER TERMINAL V1.1
          <pre className="whitespace-pre">
-{`  _____                            _        
- |  __ \\                          | |       
- | |  \\/ ___ _ __   ___ _ __ __ _| |_ ___  
- | | __ / _ \\ '_ \\ / _ \\ '__/ _\` | __/ _ \\ 
- | |_\\ \\  __/ | | |  __/ | | (_| | || (_) |
-  \\____/\\___|_| |_|\\___|_|  \\__,_|\\__\\___/ 
+{` 
+ ▄︻デ═一  
+ (⌐■_■) ☠  
+/███████]  
+░░░░░░░░░ 
                                            
 Welcome to Terminal v1.1
 Type 'help' to begin.
