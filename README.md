@@ -1,12 +1,64 @@
-# React + Vite
+# 🖥️ Pretend Hacker Terminal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun, fake hacker terminal built with **React**, **Vite**, and **Tailwind CSS** — perfect for pranking your friends or just looking cool while typing!
+<br/>
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/dd08c211-2e97-48c4-98fd-8dc562721112)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<br/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ⌨️ Simulated terminal interface
+- 🧠 Predefined commands with fake outputs
+- 🎨 Styled with Tailwind CSS
+
+<br/>
+
+## 📦 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+<br/>
+
+## 🛠️ Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/nneha19/pretend-hacker-terminal
+   cd pretend-hacker-terminal
+
+<br/>
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+<br/>
+
+
+<br/>
+
+3. **Start server**
+   ```bash
+   npm run dev
+
+<br/>
+
+
+## ✨ Demo
+Check out the live version here:
+🔗 https://pretend-hacker-terminal.vercel.app/
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<i>Built with ❤️ by Neha Ghariyal</i>
+
+
+
